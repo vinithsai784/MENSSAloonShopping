@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MENSSAloonShopping", "MENSSAloonShopping.csproj", "{A9749724-26E0-4D0F-90AC-B566FA5EA3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Application", "..\MVC Application\MVC Application.csproj", "{E7DA7B4F-029C-4154-B694-A14D27875FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9749724-26E0-4D0F-90AC-B566FA5EA3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9749724-26E0-4D0F-90AC-B566FA5EA3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9749724-26E0-4D0F-90AC-B566FA5EA3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9749724-26E0-4D0F-90AC-B566FA5EA3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DA7B4F-029C-4154-B694-A14D27875FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DA7B4F-029C-4154-B694-A14D27875FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DA7B4F-029C-4154-B694-A14D27875FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DA7B4F-029C-4154-B694-A14D27875FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE5E560-703A-48CF-8CDC-CF428B399E7A}
+	EndGlobalSection
+EndGlobal
